@@ -58,7 +58,7 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/shailesh-patro/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/shailesh-patro-4b28901b3/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/master_shailesh_1234/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
