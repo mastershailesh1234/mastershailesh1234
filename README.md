@@ -2,7 +2,7 @@
     <img width="33%" src="https://i.imgur.com/u2Z87a4.gif">
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shailesh</h1>
-<h3 align="center">I'm a Full Stack Developer from India.</h3>
+<h3 align="center">I'm a Developer from India.</h3>
 
 ## 🙋‍♂️ About Me
 
